@@ -30,12 +30,11 @@ button:hover {
 
 button:focus {
   background-color: #5300C9;
-  border-color: #DCC3FF;
+  box-shadow: 0px 0px 0px 3px #DCC3FF;
 }
 
 button:active {
   background-color: #4400A5;
-  box-shadow: 0px 0px 0px 3px #DCC3FF;
 }
 
 button:disabled {
